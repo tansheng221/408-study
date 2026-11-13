@@ -1,0 +1,6 @@
+dist/
+*.log
+*.zip
+*.exe
+node_modules/
+.env*
